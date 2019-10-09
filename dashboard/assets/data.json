@@ -1,0 +1,42 @@
+[
+    {
+      "empid": 1,
+      "name": "Mahesh",
+      "gender": "male",
+      "job": "UI Designer",
+      "salary": 25000,
+      "starRating": 3.2
+    },
+    {
+      "empid": 2,
+      "name": "Srileka",
+      "gender": "female",
+      "job": "Content Manager",
+      "salary": 28000,
+      "starRating": 2.2
+    },
+    {
+      "empid": 3,
+      "name": "Srinivas",
+      "gender": "male",
+      "job": "Web Designer",
+      "salary": 20000,
+      "starRating": 4.5
+    },
+    {
+      "empid": 4,
+      "name": "Nikita",
+      "gender": "female",
+      "job": "UI Designer",
+      "salary": 22000,
+      "starRating": 3.2
+    },
+    {
+      "empid": 5,
+      "name": "Tanishka",
+      "gender": "female",
+      "job": "SEO",
+      "salary": 35000,
+      "starRating": 5.0
+    }
+  ]
